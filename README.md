@@ -6,6 +6,7 @@ TODO:
 	Finish rules
 	Make check-mate logic
 	Make AI
+	3D Graphics
 
 
 Don't know rules of chess, so it might suck
